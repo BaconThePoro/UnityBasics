@@ -28,6 +28,6 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/player_turns/p
 \
 &nbsp;&nbsp;&nbsp;4. missions: Added a simple victory screen that activates when the mission is completed. 
 
-WebGL URL:
+WebGL URL: https://bacontheporo.github.io/UnityBasics/missions/WebGL/
 
 Screenshot: 
