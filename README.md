@@ -21,4 +21,9 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/Tilemaps/Tilem
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/player_turns/WebGL/
 
-Screenshot: 
+Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/player_turns/player_turnsScreenshot.PNG
+
+\
+\
+\
+&nbsp;&nbsp;&nbsp;4.
