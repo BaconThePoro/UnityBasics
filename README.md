@@ -1,4 +1,11 @@
 # UnityBasics
+GitHub Repo URL: https://github.com/BaconThePoro/UnityBasics
+\
+GitHub Pages URL: https://bacontheporo.github.io/UnityBasics/
+
+\
+\
+\
 1. Minimap: switched position of minimap from right side of screen to left. Additionally, attached minimap to Player object. 
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/Minimap/WebGL/
@@ -35,4 +42,8 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/missions/missi
 \
 \
 \
-&nbsp;&nbsp;&nbsp;5.
+&nbsp;&nbsp;&nbsp;5. sound_effect: changed sound effect with a different mp3 file
+
+WebGL URL: https://bacontheporo.github.io/UnityBasics/sound_effect/WebGL/
+
+Screenshot: 
