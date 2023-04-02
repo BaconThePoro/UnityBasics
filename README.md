@@ -21,4 +21,13 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/Tilemaps/Tilem
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/player_turns/WebGL/
 
+Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/player_turns/player_turnsScreenshot.PNG
+
+\
+\
+\
+&nbsp;&nbsp;&nbsp;4. missions: Added a simple victory screen that activates when the mission is completed. 
+
+WebGL URL:
+
 Screenshot: 
