@@ -46,4 +46,4 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/missions/missi
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/sound_effect/WebGL/
 
-Screenshot: 
+Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/sound_effect/sound_effectScreenshot.PNG
