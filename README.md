@@ -4,4 +4,4 @@
 
   WebGL URL: https://bacontheporo.github.io/UnityBasics/Minimap/WebGL/
   
-  Screenshot: 
+  Screenshot: https://bacontheporo.github.io/UnityBasics/Minimap/MinimapScreenshot.PNG
