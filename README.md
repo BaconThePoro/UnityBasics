@@ -6,9 +6,7 @@
   
   Screenshot: [https://bacontheporo.github.io/UnityBasics/Minimap/MinimapScreenshot.PNG](https://github.com/BaconThePoro/UnityBasics/blob/main/Minimap/MinimapScreenshot.PNG)
 
-
-
-
+\\\
 
 2. Tilemaps: Changed colors of tilemap in mspaint. Also adjusted end of tilemap to fix cohesion of water tiles. Lastly changed background color to better match my chosen colors. 
 
