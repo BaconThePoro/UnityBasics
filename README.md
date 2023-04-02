@@ -35,7 +35,7 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/missions/missi
 \
 \
 \
-&nbsp;&nbsp;&nbsp;5.
+&nbsp;&nbsp;&nbsp;5. sound_effect: changed sound effect with a different mp3 file
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/sound_effect/WebGL/
 
