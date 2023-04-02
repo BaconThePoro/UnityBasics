@@ -19,6 +19,6 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/Tilemaps/Tilem
 \
 &nbsp;&nbsp;&nbsp;3. player_turns: Adjusted amount of players from 3 to 2. Also changed player colors around and changed names to Player and Enemy. (Enemy is still player controlled though)
 
-WebGL URL: https://bacontheporo.github.io/UnityBasics/tree/main/player_turns/WebGL/
+WebGL URL: https://bacontheporo.github.io/UnityBasics/player_turns/WebGL/
 
 Screenshot: 
