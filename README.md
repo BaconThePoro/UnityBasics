@@ -30,4 +30,9 @@ Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/player_turns/p
 
 WebGL URL: https://bacontheporo.github.io/UnityBasics/missions/WebGL/
 
-Screenshot: 
+Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/missions/missionsScreenshot.PNG
+
+\
+\
+\
+&nbsp;&nbsp;&nbsp;5.
