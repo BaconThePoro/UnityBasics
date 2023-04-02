@@ -8,7 +8,7 @@
 
 \
 \
-\
+
 
 2. Tilemaps: Changed colors of tilemap in mspaint. Also adjusted end of tilemap to fix cohesion of water tiles. Lastly changed background color to better match my chosen colors. 
 
