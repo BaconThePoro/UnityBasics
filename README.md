@@ -11,4 +11,5 @@
 
   WebGL URL: https://bacontheporo.github.io/UnityBasics/Tilemaps/WebGL/
   
-  Screenshot: 
+  Screenshot: https://github.com/BaconThePoro/UnityBasics/blob/main/Tilemaps/TilemapsScreenshot.PNG
+ 
