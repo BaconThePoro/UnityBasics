@@ -1,5 +1,5 @@
 # UnityBasics
-GitHub Repo URL: https://github.com/BaconThePoro/UnityBasics
+GitHub Repo URL: [https://github.com/BaconThePoro/UnityBasics](https://github.com/BaconThePoro/UnityBasics)
 \
 GitHub Pages URL: https://bacontheporo.github.io/UnityBasics/
 
